@@ -19,5 +19,7 @@ No, because testing the message feature itself would be difficult. It would not 
 
 Yes, this would be more straightforward as we could write a test checking the length of the message sent. If it's longer than 80 characters, an error would be sent. 
 
+[Pages Link](https://chedwards492.github.io/CSE110-Lab5/)
+
 [expose.html](expose.html)\
 [explore.html](explore.html)
