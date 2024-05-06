@@ -30,6 +30,7 @@ function setHornImgAudio() {
   audio.src = `assets/audio/${this.value}.mp3`;
 }
 
+
 /**
  * Set audio volume icon and audio volume level
  */
